@@ -1,0 +1,17 @@
+.product-image{
+    max-width: 100%;
+    height: auto;
+}
+
+.jumbotron{
+    background-image: url(https://www.grupocsi.com.do/wp-content/uploads/2020/10/CoverSoluciones1080v4.jpg);
+    background-size: cover;
+    color: white;
+}
+.button{
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+    color: white;
+    background-color:grey
+}
